@@ -1,6 +1,6 @@
 # Image Labels
 
-A script I made to change the training data of a collection in Wisual Recognition
+A script I made to change the training data of a collection in Visual Recognition
 
 ## Create a virtual env (optional)
 
