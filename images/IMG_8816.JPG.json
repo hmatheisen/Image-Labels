@@ -1,0 +1,54 @@
+{
+  "image_id": "IMG_8816_db601916a2f7cb76c3e37a8cbe1eeb32",
+  "created": "2019-05-08T13:40:36.878Z",
+  "updated": "2019-05-09T07:35:29.079Z",
+  "source": {
+    "type": "file",
+    "filename": "IMG_8816.JPG",
+    "archive_filename": "images_file.zip"
+  },
+  "dimensions": {
+    "height": 998,
+    "width": 998
+  },
+  "training_data": {
+    "objects": [
+      {
+        "object": "Rouge",
+        "location": {
+          "left": 575,
+          "top": 405,
+          "width": 114,
+          "height": 105
+        }
+      },
+      {
+        "object": "Vert",
+        "location": {
+          "left": 495,
+          "top": 468,
+          "width": 116,
+          "height": 107
+        }
+      },
+      {
+        "object": "Bleu",
+        "location": {
+          "left": 282,
+          "top": 559,
+          "width": 120,
+          "height": 121
+        }
+      },
+      {
+        "object": "Jaune",
+        "location": {
+          "left": 361,
+          "top": 291,
+          "width": 105,
+          "height": 105
+        }
+      }
+    ]
+  }
+}
