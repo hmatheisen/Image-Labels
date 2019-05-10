@@ -27,7 +27,7 @@ pip install -r requirments.txt
 1. Create a `.env` file:
 
     ```bash
-    cm .env.example .env
+    cp .env.example .env
     ```
  
 2. Fill it with your own Visual Recognition Credentials
