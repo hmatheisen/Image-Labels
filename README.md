@@ -22,6 +22,16 @@ A script I made to change the training data of a collection in Wisual Recognitio
 pip install -r requirments.txt
 ```
 
+## Use your credentials
+
+1. Create a `.env` file:
+
+    ```bash
+    cm .env.example .env
+    ```
+ 
+2. Fill it with your own Visual Recognition Credentials
+
 ## Run the script
 
 ```
